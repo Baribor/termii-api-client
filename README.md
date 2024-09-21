@@ -7,13 +7,13 @@ This is a TypeScript/JavaScript client library for interacting with the Termii A
 You can install this package using npm:
 
 ```bash
-npm install termii-client
+npm install termii-api-client
 ```
 
 Or with yarn:
 
 ```bash
-yarn add termii-client
+yarn add termii-api-client
 ```
 
 ## Usage
