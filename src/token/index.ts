@@ -145,5 +145,3 @@ export class Token {
     return data;
   }
 }
-const some = 4;
-console.log(some);
