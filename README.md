@@ -21,7 +21,7 @@ yarn add termii-api-client
 ### Importing and Initializing the Client
 
 ```typescript
-import TermiiClient from 'termii-client';
+import TermiiClient from 'termii-api-client';
 
 const client = new TermiiClient({
   baseUrl: 'https://api.termii.com',
