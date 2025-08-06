@@ -57,6 +57,7 @@ export type SendTokenInput = PinConfig & {
   channel: "whatsapp" | "dnd" | "generic";
   pin_placeholder: string;
   message_text: string;
+  pin_type: "NUMERIC";
 };
 
 export type VoiceTokenInput = PinConfig & {
